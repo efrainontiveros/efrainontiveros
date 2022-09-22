@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Efrain Ontiveros
-- 👀 I’m interested in Cars,
+- 👀 I’m interested in Cars, Technologies, Culture
 - 🌱 I’m currently learning Node Js
 - 💞️ I’m looking to collaborate on Movilidad CDJ
 - 📫 How to reach me efrainontiveros@gmail.com
